@@ -7,7 +7,7 @@ import org.litepal.crud.DataSupport;
  * 市数据库表结构
  */
 
-public class city extends DataSupport {
+public class City extends DataSupport {
 
     private int id;
     //市名字
