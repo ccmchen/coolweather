@@ -2,15 +2,9 @@
 
 <litepal>
 
-
-
     <dbname value="cool_weather" />
 
-
-
     <version value="5" />
-
-
 
     <list>
 
@@ -21,7 +15,5 @@
         <mapping class="com.example.coolweather.db.County" />
 
     </list>
-
-
 
 </litepal>
